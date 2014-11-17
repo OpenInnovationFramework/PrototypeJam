@@ -1,0 +1,5 @@
+Some informal notes re general approach to OBD protected data share prototype....
+
+The thing we are trying to Prototype is use of the MIT and/or Google OpenID Connect service to demo a user granting an app authorized access to "protected data". Specifically we'd like to demo access to a few "standard claims" and some custom claims. The standard claims are name, email, postal address and user profile URL (see section 5 of OpenID Connect standard for list of standard claims). The non-standard claims are boston neighborhood, type of business and type of resource needed (we have a simple example data structure/format for these non-standard custom claims). The fall back is just to grant access to a data file (ie a csv or XML or json file) with the structured data. 
+
+We want to demo granting access to the standard claims from the google user basic profile data and the non-standard claims from a server on Rackspace or AWS or at MIT (scripts server, etc) as simple files (just csv, XML, json etc text files) or a simple MySQL database if that's easier. 
