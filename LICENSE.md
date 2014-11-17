@@ -1,5 +1,4 @@
-This project is licensed under the Terms of: 
- 
+All files and other data in this repository including all sub-directories are licensed under the Terms of:
 
 1. Software
 -Any [Free Software Foundation (free license)](http://www.gnu.org/licenses/license-list.html) or [OSI Approved Open Source License](http://opensource.org/licenses/alphabetical) may be used for contributions of Software Code;
