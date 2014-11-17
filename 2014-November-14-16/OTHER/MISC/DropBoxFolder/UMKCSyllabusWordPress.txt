@@ -1,0 +1,35 @@
+UMKC IS ASKING TO HAVE 
+- Commonly understood language on what is going on 
+- Understandings and objectives
+- Valuable and consistent plans 
+
+The UMKC Course Syllabus:
+
+Applications: The course will use GitHub as the primary project management and 
+document repository. The course will also utilize Google Plus (including Hangouts). 
+
+Students must have a gmail account.
+
+E-mail: Students must regularly access their UMKC student e-mail account and the course Blackboard site for course communications.
+
+How to build use cases. 
+
+Video of the process permits. The main emphasis in this course is to identify two permit processes, examine the business processes and the law associated with those permits and develop a demonstration of how technology can improve the process. However, UMKC students will have opportunities to observe and offer suggestions on the work of student teams from the other institutions involved as they “hack” other projects. (See list of contemplated projects in Appendix B to this syllabus).
+
+Applications: The course will use GitHub as the primary project management and document repository. The course will also utilize Google Plus (including Hangouts). 
+
+Students must have a gmail account.
+E-mail: Students must regularly access their UMKC student e-mail account and the course Blackboard site for course communications. General Course Description and Objectives:
+
+
+The lens for this will be the Kansas City permit process. Both Kansas City, MO and Boston, MA are in the process of developing new processes for granting permits. The main emphasis in this course is to identify two permit processes, 
+examine the business processes and the law associated with those permits and develop a demonstration of how technology can improve the process. However, UMKC students will have opportunities to observe and offer suggestions on the work of student teams from the other institutions involved as they “hack” other projects. (See list of contemplated projects in Appendix B to this syllabus). Course outline/schedule/assignments: 
+
+
+1. At the end of this course, students will be able to demonstrate their ability to use specific open source technology tools for collaboration and project management. Understanding these tools will allow them to both appreciate and evaluate other technology tools that will be important for work with laws and public policy and potentially helpful in many other areas as well.
+
+2. At the end of this course, students will be able to demonstrate a fundamental understanding of project management concepts. They will also understand project management techniques, e.g., Agile Project Management, related to “build activities for engineering, information technology, and new product or service development projects”.
+
+3. At the end of this course, students will have a high level overview of how to assess and understand business process requirements. They will also develop an understanding of how to determine the legal dimensions associated with business processes and work flows.
+
+4. At the end of this course, students will have developed a stronger skill set in statutory research. Specifically they will have a more thorough understanding of researching Municipal Ordinances and the legislative process behind the creation of these laws.

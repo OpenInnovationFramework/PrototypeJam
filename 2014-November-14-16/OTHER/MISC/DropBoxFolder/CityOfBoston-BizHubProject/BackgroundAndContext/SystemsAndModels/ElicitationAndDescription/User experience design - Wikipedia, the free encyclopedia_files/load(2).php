@@ -1,0 +1,2 @@
+mw.loader.implement("mediawiki.language.init",function($,jQuery){(function(mw){mw.language={data:{},getData:function(langCode,dataKey){var langData=mw.language.data;if(langData&&langData[langCode]instanceof mw.Map){return langData[langCode].get(dataKey);}return undefined;},setData:function(langCode,dataKey,value){var langData=mw.language.data;if(!(langData[langCode]instanceof mw.Map)){langData[langCode]=new mw.Map();}langData[langCode].set(dataKey,value);}};}(mediaWiki));},{},{});
+/* cache key: enwiki:resourceloader:filter:minify-js:7:9eb3a5915a956c13fd3f0e54623416e2 */

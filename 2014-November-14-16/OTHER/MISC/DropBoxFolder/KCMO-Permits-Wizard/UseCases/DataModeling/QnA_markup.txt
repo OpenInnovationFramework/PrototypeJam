@@ -1,0 +1,25 @@
+Title:
+Author:
+Description:
+
+Q(1):
+A:
+	Q(1.1):  Will you be performing "land disturbance activities"
+
+A:
+	Q(1.2):
+
+-----
+
+Q(1):  Will you be performing "land disturbance activities"
+A: Yes.
+	Q(1.1): Are your activities "exempt" under KCMO Ord 63-26?
+	A: Yes.
+		Q(1.1.1): Great, I'm glad to inform you that persons performing land disturbance activities that meet any of the exemption criteria are not required to apply for a site disturbance permit pursuant to this chapter:
+
+	A: No. 
+		Q(1.1.2): Please go to next question...
+A: No. 
+	Q(1.2): Okay then you don't need a Land Disturbance Permit.  Have a nice day!
+
+Q(2): Have a nice day.

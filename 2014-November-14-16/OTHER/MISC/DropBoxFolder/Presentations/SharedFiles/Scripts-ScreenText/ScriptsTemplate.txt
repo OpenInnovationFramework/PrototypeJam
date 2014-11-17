@@ -1,0 +1,123 @@
+Video Demo Outline and Script
+For PrototypeJam Projects 
+November 14-16, Boston MA
+
+The PrototypeJam team will provide a video production service for each team that will do a demo or other presentation of a prototype.  PrototypeJam video demos and final presentations will include Use Cases but can show the project idea in any way, whether with screen-by-screen mockups, wireframes or even paper prototypes.  This video production outline and script template can be used to start each team, project and presentation with the same starting point, providing a common basis for feedback and iteration.  In the first two weeks of November each team will be contacted to start preparing the visual and other elements of their video demo to make the in-person time more productive. 
+
+
+ *** Outline and Script Structure ***
+
+Project Name:
+Project Team:
+Project URL:
+Project Files:
+
+
+Segment #1:
+
+1.1. What is seen: 
+
+1.2 What is heard:
+
+
+Segment #2:
+
+2.1. What is seen: 
+
+2.2 What is heard:
+
+
+ *** Element-by-Element Annotated Walkthrough ***
+
+Here is an annotated version of the production outline with more context and instruction on how to use this document as a template to guide your project in a way that can easily result in a demo video.
+
+
+Name for Project:
+[The name of the project or if there is no project name then include a working title for the video presentation, demo etc.]
+
+Team of Project:
+[Include the names and roles of all people who will have speaking roles and all names of people who should be included in credits.]
+
+URL to Project:
+[The URL for the main project website or social media page serving as the project website.]
+
+Files for Project: 
+[URL for GoogleDrive, Dropbox, etc where project files needed for video production can be found, e.g. files such as photos, video clips, logos, scripts, etc.  These files should include the copyright and license information corresponding to the video because the video will be published and propagated on the open web.  Signed waivers, consents or other permissions needed for inclusion of proprietary or other sensitive information should also be included or linked to, if needed.]
+
+Segment #1:
+[The name and intended sequential number of the segment of video should be included here, such as “Intro” or “Welcome from our CEO” etc.  A video demo presentation is typically composed of several segments aka scenes.  Including an expected minute/second mark for the start of each segment is good practice but not necessary.]
+
+1.1. What is seen: 
+[Include the URL to all files or other data intended to be a visual element displayed on the screen during the video.  It is good practice to also describe particular screen position, size, movement, etc expected to accompany the visual element, such as “fade in to logo and bottom-third attribution of sponsor”.]
+
+1.2 What is heard:
+[It is very important to have a finished script, ideally with multiple rounds of review/feedback, prior to producing the voiceovers.  Include the script for any expected voiceover that will accompany the video on a segment by segment basis explicitly on a word-for-word basis under the section “what is heard”.  Also include reference to any other audio elements expected to be included on the sound track for the video, such as music, audio tracks accompanying video clips included in the segment, etc.]  
+
+ *** Example Production Outline & Script ***
+
+#Start#
+Project Name: New Mousetrap Concept Design Demo
+Project Team: Tiny and Micky 
+Project URL: ReverseMouseTrap.Now
+Project Files: ReverseMouseTrap.Now/PrototypeJam/Video
+
+
+Segment #1: Intro
+
+1.1. What is seen: 
+
+- Title Text:  To Build a Better Mousetrap 
+
+- Stock photo of dawn over the mountains (sunrise.jpg) 
+
+- Product logo top right corner (logo4.jpg)
+
+1.2 What is heard:
+
+* Voiceover - Micky: Once we lived in fear.  Fear that any random nibble of cheese could be our last.
+
+* Voiceover - Tiny: But a new day is dawning for us, thanks to the power of invention.
+
+
+Segment #2: Demo of Invention
+
+2.1 What is seen: 
+
+- Video clip of reverse mouse trap in action (demo7.mov)
+
+- Bottom-Third: ReverseMouseTrap.Now
+
+2.2 What is heard:
+
+- Video clip audio track
+
+* Voiceover - Micky: We designed and built this better mouse trap to create a more secure and verdant environment for our family
+
+* Voiceover - Tiny: And now we're making it available for purchase on our website. 
+
+
+Segment #3: Personal Intention
+
+3.1 What is seen:
+
+- Inventors family photo (Thanksgiving2007.jpg)
+
+- Bottom-Third: ReverseMouseTrap.Now
+
+3.2 What is heard:
+
+* Voiceover - Micky: We made an invention for our own family, but we offer this product for all of us to be safe, happy and free!
+
+
+Segment #4: Outro and Call to Action
+
+4.1 What is seen:
+
+- Title Text: ReverseMouseTrap.Now
+
+- Bottom Third: Creative Commons License 
+
+4.2 What is heard: 
+
+* Voiceover - Tiny: Order yours today!
+#End#

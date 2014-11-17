@@ -1,0 +1,22 @@
+From: Luppino, Anthony 
+Sent: Monday, November 03, 2014 12:31 PM
+To: 'Dazza Greenwood'
+Cc: Suni, Ellen; Robak, Michael J.
+Subject: RE: Draft of UMKC-KCMO Use Case for Boston Event and Related Context
+ 
+[THE FOLLOWING HAS ALSO BEEN POSTED ON GOOGLE DOCS]
+ 
+Dazza:
+ 
+Following your suggestion, we have been working with the Special Projects class faculty and students to get to a “hackable” (or, at least “prototype jam-able”) small piece of the broader picture on permits/licenses/approvals we are exploring with KCMO for the November 14-16 event.  The idea is to take a manageable, but meaningful piece of a bigger puzzle and test out the hacking/prototyping process  on that—in the hope it serve as a useful template or guide for further work on the city permits, etc. matters. Ashley Hand and others at KCMO seem very supportive of what we are doing on this.
+We have for the Nov. 14-16 “small piece” landed on automation of the “site disturbance permit approval process” which is a subpart of KCMO’s Information Bulletin 110.C (see https://data.kcmo.org/Information-Bulletins/IB110-Part-C-Building-Permit-Checklist/ynax-nukp ) which relates to detailed checklists for building permits.  The “site disturbance process” (Section 14 of I.B. 110.C) is grounded in KCMO Ordinance 63 (see https://www.municode.com/library/mo/kansas_city/codes/code_of_ordinances?nodeId=PTIICOOR_CH63ERSECO_ARTIIERSECORE_DIV1INGE_S63-21TIAU)
+ 
+For context, we are still working off of a plan/story to build a multi-level building on a site in KCMO that would have residential apartments and (on the first floor) some retail establishments, which would include a restaurant that would have alcoholic beverages on its menu).  The “real estate group” on our team is working on a decision tree to navigate the “rezoning” process that would be involved for the site that are using as a test case. But we decided to start or search for a “hackable” piece of our work at the point after rezoning has been obtained, which led us to I.B. 110. 
+ 
+After having students look at I.B. 110 to determine if it appeared to have any significant conflicts with underlying law (they did not find any) we discussed our search for a hackable piece in class a few weeks ago.  That narrowed us down to Part C of I.B. 110. We then had law and engineering students involved review 110.C in detail to identify questions that would lead to logical yes/no junctures and branches in a decision tree. After reviewing the results of that we decided the best segment to suggest we have your coders work with in Boston on Nov. 15-16 would be Section 8 of I.B. 110 (site disturbance approval process).  We are sending you herewith a draft “use case” for hacking/prototype jamming of that segment.  The use case contemplates having code written for a specific decision tree/wizard questions (and answers) for the site disturbance permit approval process. We also contemplated writing a use case for a “basic information package” (along the lines discussed with you and Boston’s Rafael Carbonall); but we understand there is already a Boston use case going on that (we looked in the folder we thought you were placing it in, but don’t see it yet). Unless you suggest otherwise we suggest on the “basic information package” use case we just collaborate in Boston on the hacking/prototype jamming of the Boston version.
+ 
+Please consider the foregoing and the attached use case at your earliest convenience and let us know if you agree this will be suitable for work by your coders on Nov. 15-16.  Also, please let us know your thoughts on the best handling of the “basic information package” use case.  Meanwhile, our UMKC team will continue building the specific decision tree questions that go with the site disturbance API use case (you will see the attached use case has all of the key categories outlined but that the specific decision tree questions will have detailed language following the law/code).
+ 
+Thanks.
+ 
+Tony and Michael
