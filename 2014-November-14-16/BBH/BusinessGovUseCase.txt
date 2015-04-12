@@ -6,7 +6,6 @@ a. Authorize data from Inquiry Form
 b. Authorize above to autofill # 3
 3. Restore Application Filled and used 
 
-
 ==================
 A. First Business Intake
 1. Inquiry (CaseObject)
